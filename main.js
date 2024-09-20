@@ -1,1 +1,1 @@
-alert (5/1)
+alert (deu certo)
