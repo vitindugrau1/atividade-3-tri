@@ -1,1 +1,1 @@
-alert (deu)
+alert('deu certo')
