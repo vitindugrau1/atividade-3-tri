@@ -3,7 +3,7 @@ let estados =['Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Distrito Fe
 let f=0;
 while (f<27){
     console.log (f);
-    console.log(estados)[f];
+    console.log(estados[f]);
     f=f+1;
 
 }
