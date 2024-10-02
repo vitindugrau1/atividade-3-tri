@@ -4,6 +4,6 @@ let f=0;
 while (f<estados.length){
     console.log (f);
     console.log(estados[f]);
-    f=f+1;
+    f=f++;
 
 }
