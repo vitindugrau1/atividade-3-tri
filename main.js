@@ -6,8 +6,3 @@ while (f<estados.length){
     console.log(estados[f]);
     f=f++;
 }
-for (let f = 0; f < estados.length; f++) {
-    console.log (f);
-    console.log(estados[f]);
-    f=f++;
-}
