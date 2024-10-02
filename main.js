@@ -3,6 +3,7 @@ let estados =['Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Distrito Fe
 let f=15;
 while (f<5){
     console.log (f);
+    console.log(estados)[f]
     f=f+1
 
 }
