@@ -9,4 +9,5 @@ while (f<estados.length){
 for (let f = 0; f < array.length; f++) {
     console.log (f);
     console.log(estados[f]);
+    f=f++;
 }
