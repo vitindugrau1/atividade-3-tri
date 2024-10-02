@@ -7,7 +7,6 @@ while (f<estados.length){
     f=f++;
 }
 for (let f = 0; f < estados.length; f++) {
-    const element = estados[f];
     console.log (f);
     console.log(estados[f]);
     
